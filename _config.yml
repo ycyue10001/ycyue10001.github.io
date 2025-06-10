@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-Pkuhub's site"
+title                    : "Y.Y's site"
 title_separator          : "-"
-name                     : &name "xker "
+name                     : &name "pkuer "
 description              : &description "111"
-url                      : https://pkuhub-dev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ycyue10001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pkuhub-dev/pkuhub-dev.github.io"
+repository               : "ycyue10001/ycyue10001.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yourname"
+  name             : "ycyue"
   avatar           : "white.png"
   bio              : "Peking University"
   location         : "China Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "help@pkuhub.cn"
+  email            : "q2465949609@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuhub-dev"
+  github           : "ycyue10001"
   google_plus      :
   keybase          :
   instagram        :
