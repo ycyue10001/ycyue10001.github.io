@@ -67,10 +67,10 @@ author_profile: true
 <div class="friend-links-container">
     <!-- 每个好友卡片 -->
     <div class="friend-card" style="background-color: #f0f0f0;">
-      <a href="https://iculizhi.github.io" target="_blank">
-        <img src="../images/xj.jpg" alt="ICUlizhi's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
-        <div class="friend-name">ICUlizhi's Blog</div>
-        <div class="friend-intro">上士闻道, 勤而行之</div>
+      <a href="https://ycyue10001.github.io" target="_blank">
+        <img src="../images/male.jpg" alt="ycyue10001's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">ycyue10001's Blog</div>
+        <div class="friend-intro">闻数起舞，虽远必诛</div>
       </a>
     </div>
   </div>
@@ -82,10 +82,9 @@ author_profile: true
 <br/>
 
 <!-- Giscus 评论系统嵌入 -->
-在你修改前, 这个评论区不是你的
 
 <script src="https://giscus.app/client.js"
-        data-repo="ICUlizhi/ICUlizhi.github.io"
+        data-repo="ycyue10001/ycyue10001.github.io"
         data-repo-id="R_kgDOKfCXRQ"
         data-category="Announcements"
         data-category-id="DIC_kwDOKfCXRc4CknGa"
