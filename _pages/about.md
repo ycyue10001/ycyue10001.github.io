@@ -24,5 +24,5 @@ The website is still under construction. Codes and course notes are uploading co
 <h2>Contact me</h2>
 
 
-[Email](mailto:guangyin@stu.pku.edu.cn) / [Github](https://github.com/ycyue10001) / [Wechat](../images/微信二维码.png) 
+[Email](mailto:guangyin@stu.pku.edu.cn) / [Github](https://github.com/ycyue10001) / [Wechat](../images/微信二维码.jpg) 
 
