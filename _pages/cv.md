@@ -47,7 +47,7 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
+* Name: Yuchen Yue
 * Phone and WeChat: 13681218471 / Email: [guangyin@stu.pku.edu.cn](guangyin@stu.pku.edu.cn)
 * Personal Website: [ycyue10001.github.io](https://ycyue10001.github.io/)
 
