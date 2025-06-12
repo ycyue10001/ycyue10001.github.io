@@ -20,7 +20,7 @@ The website is still under construction. Codes and course notes are uploading co
 
 <h2>Pageviews</h2>
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BeDJ8aZbLbg1UXIkP8r6UEuJIP7LHqUhIbLro3wlkMU&cl=ffffff&w=a"></script>
 <h2>Contact me</h2>
 
 
