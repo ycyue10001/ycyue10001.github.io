@@ -142,7 +142,7 @@ location: "Beijing, China"
 - 链接 : [组胚](https://github.com/ycyue10001/Histology-and-embryology)
 ```
 参考效果
-<img src = 'images for how to use it/image3.png'>
+<img src = 'images for how to use it/image5.png'>
 
 
 
