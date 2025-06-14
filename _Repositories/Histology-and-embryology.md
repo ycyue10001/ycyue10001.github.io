@@ -2,7 +2,7 @@
 title: "组织学与胚胎学"
 collection: Repositories
 type: "Repositories"
-permalink: /Repositories/ycyue10001.github.io
+permalink: https://github.com/ycyue10001/Histology-and-embryology
 venue: "Peking University"
 date: 2025-06-14
 location: "Beijing, China"
