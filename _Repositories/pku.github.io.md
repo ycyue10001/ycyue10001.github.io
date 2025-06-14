@@ -2,7 +2,7 @@
 title: "My Github Page"
 collection: Repositories
 type: "Repositories"
-permalink: /Repositories/ycyue10001.github.io
+permalink: https://github.com/ycyue10001/ycyue10001.github.io
 venue: "Peking Univercity"
 date: 2025-06-10
 location: "Beijing, China"
