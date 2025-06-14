@@ -128,17 +128,18 @@ author_profile: true
 该栏目下的md文件需要放在根目录下的_Repositories文件夹中, 请自行创建, 例如PKU-2024-IBAL-cracked-version.md
 ```
 ---
-title: "PKU-2024-IBAL-cracked-version"
+title: "组织学与胚胎学"
 collection: Repositories
 type: "Repositories"
-permalink: /Repositories/PKU-2024-IBAL-cracked-version
-venue: "Peking Univercity"
-date: 2024-07-28
+permalink: https://github.com/ycyue10001/Histology-and-embryology
+venue: "Peking University"
+date: 2025-06-14
 location: "Beijing, China"
 ---
-英美文学概况的资料以及课程攻略,包含大模型写作业,给英文原著作摘要等功能
+北医组胚（医英护理轨道）
 - 状态 : 完结,开源
-- 链接 : [https://github.com/ICUlizhi/PKU-2024-IBAL-cracked-version](https://github.com/ICUlizhi/PKU-2024-IBAL-cracked-version)
+- 描述 : 北医基础医学院组胚笔记
+- 链接 : [组胚](https://github.com/ycyue10001/Histology-and-embryology)
 ```
 参考效果
 <img src = 'images for how to use it/image3.png'>
