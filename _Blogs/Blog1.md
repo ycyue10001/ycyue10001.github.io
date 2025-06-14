@@ -2,7 +2,7 @@
 title: "碎碎念"
 collection: Blogs
 type: "Blogs"
-permalink: /Blogs/模板.md
+permalink: /Blogs/Blog1.md
 venue: "Peking Univercity"
 date: 2025-6-14
 location: "Beijing, China"
