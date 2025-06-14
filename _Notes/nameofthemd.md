@@ -1,16 +1,15 @@
 ---
-title: "nameofthemd"
+title: "组织学与胚胎学"
 collection: Notes
 type: "Notes"
 permalink: /Notes/nameofthemd
-venue: "Peking Univercity"
+venue: "Peking University"
 date: 2024-08-30
 location: "Beijing, China"
 ---
-以下自由发挥:
 
-英美文学概况的资料以及课程攻略,包含大模型写作业,给英文原著作摘要等功能
-- 状态 : 完结,闭源
-- 作者 : [Jing Xu](https://iculizhi.github.io/)
-- 描述 : 可以把每日任务量从4-6个小时缩短到1小时以内,且保证小测成绩.同学们依靠本项目拿到了90+.这门课不推荐大家选,但足以证明本人实力和笔记质量.
-- 链接 : [不在这里](https://github.com/ICUlizhi/PKU-2024-IBAL-cracked-version)
+组胚(医英护理轨)实习考试复习攻略
+- 状态 : 完结,开源
+- 作者 : [ycyue](https://ycyue.github.io)
+- 描述 : 整理了课上反复训练的切片图,考试时对着电脑识别并写出部位名称
+- 链接 : [组胚](https://github.com/ycyue10001/Histology-and-embryology)
