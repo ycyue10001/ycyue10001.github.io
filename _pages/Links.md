@@ -67,10 +67,24 @@ author_profile: true
 <div class="friend-links-container">
     <!-- 每个好友卡片 -->
     <div class="friend-card" style="background-color: #f0f0f0;">
+      <a href="https://i.pkuhub.cn" target="_blank">
+        <img src="../images/avastars/pkuhub.jpg" alt="PKUHUB" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">PKUHUB</div>
+        <div class="friend-intro">笔记共享(PKU校园网)</div>
+      </a>
+    </div>
+    <div class="friend-card" style="background-color: #f0f0f0;">
       <a href="https://ycyue10001.github.io" target="_blank">
         <img src="../images/male.jpg" alt="ycyue10001's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">ycyue10001's Blog</div>
         <div class="friend-intro">闻数起舞，虽远必诛</div>
+      </a>
+    </div>
+    <div class="friend-card" style="background-color: #f0f0f0;">
+      <a href="https://ICUlizhi.github.io" target="_blank">
+        <img src="../images/avastars/xj.jpg" alt="ICUlizhi" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">PKUHUB</div>
+        <div class="friend-intro">ICUlizhi's Blog</div>
       </a>
     </div>
     <div class="friend-card" style="background-color: #f0f0f0;">
