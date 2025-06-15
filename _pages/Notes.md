@@ -93,13 +93,22 @@ author_profile: true
     </style>
    <details><summary>点击展开 </summary>
   <div class="timeline-container">
-        <!-- 2023 秋 -->
+    <!-- 2023 秋 -->
     <div class="timeline-item">
-      <div class="timeline-node"></div>
-        <div class="content">
-                <h3>你好, PKU</h3>
-                <span class="time">2023 秋</span>
-                <p>初入燕园</p>
+    <div class="timeline-node"></div>
+    <div class="content">
+              <h3>你好, PKU</h3>
+              <span class="time">2023 秋</span>
+              <p>初入燕园</p>
+        </div>
+    </div>
+    <!-- 2023 秋 -->
+    <div class="timeline-item">
+    <div class="timeline-node"></div>
+    <div class="content">
+              <h3>高数D和计概C给我的自信</h3>
+              <span class="time">2023 秋</span>
+              <p>大一上是我在校本部读医学预科最快乐的时光，那时候上英语课的我，课上喜欢开小差，算算题，敲敲代码，帮同学处理数学和代码相关的问题，颇有成就感，这两门课让我大一上的GPA更加美观~</p>
         </div>
     </div>
     </div>
@@ -107,9 +116,9 @@ author_profile: true
 
 
 
-## 敬请期待
+## 专业课
 
-{% assign paths = "nameofthemd.md" | split: "," %}
+{% assign paths = "Histology-and-embryology.md" | split: "," %}
 
 {% for post in site.Notes reversed %}
   {% for path in paths %}
