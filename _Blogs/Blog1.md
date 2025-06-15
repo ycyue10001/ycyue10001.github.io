@@ -3,7 +3,7 @@ title: "碎碎念"
 collection: Blogs
 type: "Blogs"
 permalink: /Blogs/Blog1.md
-venue: "Peking Univercity"
+venue: "Peking University"
 date: 2025-6-14
 location: "Beijing, China"
 ---
