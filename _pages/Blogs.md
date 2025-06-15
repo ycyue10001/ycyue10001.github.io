@@ -6,4 +6,4 @@ author_profile: true
 ---
 {% include base_path %}
 
-- [谢谢图佬徐靖教我做主页~](/Blogs/Blog1.md)
+- [谢谢图佬徐靖教我做主页~](/Blog1.md)
