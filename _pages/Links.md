@@ -83,7 +83,7 @@ author_profile: true
     <div class="friend-card" style="background-color: #f0f0f0;">
       <a href="https://ICUlizhi.github.io" target="_blank">
         <img src="../images/xj.jpg" alt="ICUlizhi" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
-        <div class="friend-name">PKUHUB</div>
+        <div class="friend-name">ICUlizhi</div>
         <div class="friend-intro">ICUlizhi's Blog</div>
       </a>
     </div>
