@@ -75,7 +75,7 @@ author_profile: true
     </div>
     <div class="friend-card" style="background-color: #f0f0f0;">
       <a href="https://blog.imyangty.com/" target="_blank">
-        <img src="../images/avatars/YangTY.jpg" alt="YangTY's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <img src="../images/avastars/YangTY.jpg" alt="YangTY's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">YangTY's Blog</div>
         <div class="friend-intro">越过山川</div>
       </a>
