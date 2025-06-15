@@ -1,9 +1,9 @@
 ---
-title: "My Github Page"
+title: "Github官方主页"
 collection: Repositories
 type: "Repositories"
 permalink: https://github.com/ycyue10001/ycyue10001.github.io
-venue: "Peking Univercity"
+venue: "Peking University"
 date: 2025-06-10
 location: "Beijing, China"
 ---
