@@ -6,4 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-- [谢谢图佬徐靖教我做主页~](/Blog1.md)
+欢迎来到Yuchen Yue的Github Blogs! 
+{% include base_path %}
+
+{% for post in site.Blogs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
