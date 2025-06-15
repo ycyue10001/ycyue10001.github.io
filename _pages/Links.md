@@ -58,7 +58,7 @@ author_profile: true
 
 <h2>下载专区</h2>
 <ul>
-  <li><a href="../files/北京大学2025春季课表.xlsx">北京大学2025年春季课表(可搜索)</a></li>
+  <li><a href="../files/北京大学2025-2026学年校历.pdf">北京大学2025-2026学年校历</a></li>
 </ul>
 
 <h2>友链</h2>
@@ -71,6 +71,13 @@ author_profile: true
         <img src="../images/male.jpg" alt="ycyue10001's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">ycyue10001's Blog</div>
         <div class="friend-intro">闻数起舞，虽远必诛</div>
+      </a>
+    </div>
+    <div class="friend-card" style="background-color: #f0f0f0;">
+      <a href="https://blog.imyangty.com/" target="_blank">
+        <img src="../images/avatars/YangTY.jpg" alt="YangTY's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">YangTY's Blog</div>
+        <div class="friend-intro">越过山川</div>
       </a>
     </div>
   </div>
