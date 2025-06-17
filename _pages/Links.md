@@ -61,6 +61,40 @@ author_profile: true
   <li><a href="../files/北京大学2025-2026学年校历.pdf">北京大学2025-2026学年校历</a></li>
 </ul>
 
+<h2>常用网站</h2>
+<h3>北京大学</h3>
+<ul>
+  <li><a href="https://portal.pku.edu.cn/">北京大学校内信息门户</a></li>
+  <li><a href="https://dean.pku.edu.cn/">北京大学教务部</a></li>
+  <li><a href="https://dean.pku.edu.cn/">PKUTEX(Overleaf平替,校园网)</a></li>
+  <li><a href="https://course.pku.edu.cn/">北京大学教学网</a></li>
+  <li><a href="https://courses.pinzhixiaoyuan.com/">北京大学非官方课程测评</a></li>
+  <li><a href="https://elective.pku.edu.cn/">北京大学选课系统</a></li>
+  <li><a href="https://treehole.pku.edu.cn/web/">北大树洞</a></li>
+  <li><a href="https://its.pku.edu.cn/">北京大学网络服务</a></li>
+  <li><a href="https://bbs.pku.edu.cn/web/">北大未名bbs</a></li>
+  <li><a href="https://www.lib.pku.edu.cn/">北京大学图书馆(校园网)</a></li>
+  <li><a href="https://course.pku.edu.cn/">北京大学课程中心</a></li>
+  <li><a href="https://fresh.pku.edu.cn/fresh/">北京大学迎新网</a></li>
+  <li><a href="http://dangxiao.pku.edu.cn/user/login">北京大学党校培训</a></li>
+  <li><a href="https://bdkj.pku.edu.cn/login">北大空间(教室预约)</a></li>
+  <li><a href="https://pku7day.com/course">北京大学全校课程查询</a></li>
+  <li><a href="https://mail.stu.pku.edu.cn/">北京大学学生邮件系统</a></li>
+  <li><a href="https://darkoxie.github.io/">谢彦桐学长高数B讲义</a></li>
+</ul>
+
+<h3>生产工具</h3>
+<ul>
+  <li><a href="https://www.google.cn/chrome/next-steps.html?statcb=0&installdataindex=empty&defaultbrowser=0">Chrome浏览器下载</a></li>
+  <li><a href="https://github.com/">Github</a></li>
+  <li><a href="https://z-lib.id/">Z-library</a></li>
+  <li><a href="https://cn.overleaf.com/project">Overleaf</a></li>
+  <li><a href="https://detexify.kirelabs.org/classify.html#google_vignette">LATEX手写识别</a></li>
+  <li><a href="https://typst.app/">Typst</a></li>
+  <li><a href="https://markdown.lovejade.cn/">Markdown</a></li>
+  <li><a href="https://www.yicat.vip/">YICAT智能翻译</a></li>
+</ul>
+
 <h2>友链</h2>
 
 <br/><br/>
