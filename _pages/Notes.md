@@ -120,6 +120,11 @@ author_profile: true
 
 {% assign paths = "Histology-and-embryology.md" | split: "," %}
 
+
+## 经济学双学位
+
+{% assign paths = "Intermediate-Microeconomics.md" | split: "," %}
+
 {% for post in site.Notes reversed %}
   {% for path in paths %}
     {% if post.path contains path %}
