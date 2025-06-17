@@ -5,7 +5,7 @@ permalink: /Blogs/
 author_profile: true
 ---
 
-欢迎来到Yuchen Yue的Github Blogs! 
+欢迎来到我的Blogs! 
 
 {% include base_path %}
 
