@@ -120,6 +120,14 @@ author_profile: true
 
 {% assign paths = "Histology-and-embryology.md" | split: "," %}
 
+{% for post in site.Notes reversed %}
+  {% for path in paths %}
+    {% if post.path contains path %}
+      {% include archive-single.html %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
 ## 经济学双学位
 
