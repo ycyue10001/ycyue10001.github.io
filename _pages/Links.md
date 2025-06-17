@@ -131,3 +131,25 @@ author_profile: true
     </div>
   </div>
 <br/><br/><br/>
+
+
+<br/>
+
+<!-- Giscus 评论系统嵌入 -->
+
+<script src="https://giscus.app/client.js"
+        data-repo="ycyue10001/ycyue10001.github.io"
+        data-repo-id="R_kgDOO3Tdyw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOO3Tdy84Crfqv"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
