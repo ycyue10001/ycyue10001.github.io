@@ -10,6 +10,7 @@ author_profile: true
 {% include base_path %}
 
 - [碎碎念]({{ "/Blogs/碎碎念" | relative_url }})
+- [科学上网]({{ "/Blogs/科学上网" | relative_url }})
 
 
 <br/>
