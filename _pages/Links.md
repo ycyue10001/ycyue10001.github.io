@@ -68,6 +68,7 @@ author_profile: true
   <li><a href="https://dean.pku.edu.cn/">北京大学教务部</a></li>
   <li><a href="https://dean.pku.edu.cn/">PKUTEX(Overleaf平替,校园网)</a></li>
   <li><a href="https://course.pku.edu.cn/">北京大学教学网</a></li>
+  <li><a href="https://github.com/zhuozhiyongde/PKU-Art">北大教学网美化项目(卓佬)</a></li>
   <li><a href="https://courses.pinzhixiaoyuan.com/">北京大学非官方课程测评</a></li>
   <li><a href="https://elective.pku.edu.cn/">北京大学选课系统</a></li>
   <li><a href="https://treehole.pku.edu.cn/web/">北大树洞</a></li>
