@@ -32,12 +32,12 @@ location: "Beijing, China"
 
 ### 如何配置Chrome浏览器：
 
-1.  **下载并安装Chrome浏览器：** [访问Chrome中文官方网站,无墙](https://www.google.cn/chrome/next-steps.html?statcb=0&installdataindex=empty&defaultbrowser=0)
+1.  **下载并安装Chrome浏览器：** [访问Chrome中文官方网站,无墙](https://www.google.cn/chrome/next-steps.html?statcb=0&installdataindex=empty&defaultbrowser=0)，**一定要在电脑端下载，手机下载会强制让你使用Google Play商店，没账号进不了商店！**
 2.  **安装必要的扩展程序（重要）：**
       * 为了访问被限制的网站，需安装**科学上网工具**（VPN或代理）的浏览器扩展。这类扩展通常可以在Chrome网上应用店中找到，但由于政策原因，直接搜索受限，需要从第三方渠道获取可靠的VPN或代理服务提供商的安装指引。
       * **广告拦截器：** 推荐安装AdBlock Plus、uBlock Origin等，可以有效拦截网页广告，提升浏览体验。
       * **隐私保护扩展：** 例如Privacy Badger、HTTPS Everywhere等，可以帮助保护您的在线隐私。
-      * **网页UI改动：** Tampermonkey（篡改猴）
+      * **网页UI改动：** Tampermonkey（篡改猴），要选开发者模式。
 3.  **配置代理/VPN：** 安装科学上网工具的扩展后，根据其指引进行配置，确保其正常工作。通常需要在扩展图标上点击并连接到相应的服务器。
 
 -----
@@ -46,7 +46,7 @@ location: "Beijing, China"
 
 **请注意：** 谷歌通常要求注册时提供手机号码进行验证，以确保账号安全和防止滥用。以下方法可能在某些情况下适用，但谷歌可能会随时更新其政策，导致这些方法失效。使用此方法注册的账号可能会面临更高的安全风险，甚至可能被谷歌检测并封锁。
 
-1.  **浏览器语言切换为En-US：** 重中之重！让谷歌知道你是牢美人！
+1.  **浏览器语言切换为En-US：** 下载后一定先切语言！不要跟着中文提示直接注册！重中之重！让谷歌知道你是牢美人！
 2.  **使用无痕模式（可选）：** 在Chrome浏览器中使用**无痕模式**（Incognito Mode）进行注册。这有助于模拟一个全新的网络环境。
 3.  **更改IP地址：** 在注册前，通过配置好的科学上网工具，连接到一个非中国内地的IP地址。建议选择一些谷歌服务相对开放的地区，例如美国、日本、新加坡等。
 4.  **清除浏览器缓存和Cookie：** 在尝试注册前，彻底清除您浏览器中的所有缓存、Cookie和网站数据。
