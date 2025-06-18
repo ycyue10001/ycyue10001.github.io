@@ -4,7 +4,7 @@ collection: Blogs
 type: "Blogs"
 permalink: /Blogs/Google账号
 venue: "Peking University"
-date: 2025-6-17
+date: 2025-06-18
 location: "Beijing, China"
 ---
 # 新人如何拥有谷歌账号?
