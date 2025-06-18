@@ -13,6 +13,7 @@ author_profile: true
 - [科学上网]({{ "/Blogs/科学上网" | relative_url }})
 - [Google账号 互联网冲浪的基石]({{ "/Blogs/Google账号" | relative_url }})
 - [北京大学校本部实用指南1：校园导览]({{ "/Blogs/北京大学校本部实用指南1" | relative_url }})
+- [北京大学校本部实用指南2：购物]({{ "/Blogs/北京大学校本部实用指南2" | relative_url }})
 - [北京大学医学部生存指南]({{ "/Blogs/北京大学医学部生存指南" | relative_url }})
 
 
