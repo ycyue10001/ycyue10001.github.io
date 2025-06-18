@@ -14,6 +14,10 @@ author_profile: true
 - [Google账号 互联网冲浪的基石]({{ "/Blogs/Google账号" | relative_url }})
 - [北京大学校本部实用指南1：校园导览]({{ "/Blogs/北京大学校本部实用指南1" | relative_url }})
 - [北京大学校本部实用指南2：购物]({{ "/Blogs/北京大学校本部实用指南2" | relative_url }})
+- [北京大学校本部实用指南3：选课]({{ "/Blogs/北京大学校本部实用指南3" | relative_url }})
+- [北京大学校本部实用指南4：学习]({{ "/Blogs/北京大学校本部实用指南4" | relative_url }})
+- [北京大学校本部实用指南5：体育]({{ "/Blogs/北京大学校本部实用指南5" | relative_url }})
+- [北京大学校本部实用指南6：娱乐]({{ "/Blogs/北京大学校本部实用指南6" | relative_url }})
 - [北京大学医学部生存指南]({{ "/Blogs/北京大学医学部生存指南" | relative_url }})
 
 
