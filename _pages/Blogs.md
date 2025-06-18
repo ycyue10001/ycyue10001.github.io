@@ -11,6 +11,7 @@ author_profile: true
 
 - [碎碎念]({{ "/Blogs/碎碎念" | relative_url }})
 - [科学上网]({{ "/Blogs/科学上网" | relative_url }})
+- [Google账号 互联网冲浪的基石]({{ "/Blogs/Google账号" | relative_url }})
 
 
 <br/>
