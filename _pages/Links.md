@@ -104,7 +104,14 @@ author_profile: true
       <a href="https://i.pkuhub.cn" target="_blank">
         <img src="../images/pkuhub.jpg" alt="PKUHUB" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">PKUHUB</div>
-        <div class="friend-intro">笔记共享(PKU校园网)</div>
+        <div class="friend-intro">笔记共享(校园网,丝滑)</div>
+      </a>
+    </div>
+    <div class="friend-card" style="background-color: ##f9f9f9;">
+      <a href="https://pkuhub.cn/" target="_blank">
+        <img src="../images/pkuhub.jpg" alt="PKUHUB" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">PKUHUB</div>
+        <div class="friend-intro">笔记共享(校外网,正常)</div>
       </a>
     </div>
     <div class="friend-card" style="background-color: #4b6294;">
