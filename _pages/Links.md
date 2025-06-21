@@ -100,14 +100,14 @@ author_profile: true
 <br/><br/>
 <div class="friend-links-container">
     <!-- 每个好友卡片 -->
-    <div class="friend-card" style="background-color: ##fee1e1;">
+    <div class="friend-card" style="background-color: #fee1e1;">
       <a href="https://i.pkuhub.cn" target="_blank">
         <img src="../images/pkuhub.jpg" alt="PKUHUB" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">PKUHUB</div>
         <div class="friend-intro">笔记共享(校园网,丝滑)</div>
       </a>
     </div>
-    <div class="friend-card" style="background-color: ##fee1e1;">
+    <div class="friend-card" style="background-color: #fee1e1;">
       <a href="https://pkuhub.cn/" target="_blank">
         <img src="../images/pkuhub.jpg" alt="PKUHUB" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">PKUHUB</div>
