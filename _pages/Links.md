@@ -85,7 +85,7 @@ author_profile: true
 
 <h3>生产工具</h3>
 <ul>
-  <li><a href="https://www.google.cn/chrome/next-steps.html?statcb=0&installdataindex=empty&defaultbrowser=0">Chrome浏览器下载</a></li>
+  <li><a href="https://www.google.cn/chrome/">Chrome浏览器下载</a></li>
   <li><a href="https://github.com/">Github</a></li>
   <li><a href="https://z-lib.id/">Z-library</a></li>
   <li><a href="https://cn.overleaf.com/project">Overleaf</a></li>
