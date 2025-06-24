@@ -59,6 +59,7 @@ author_profile: true
 <h2>下载专区</h2>
 <ul>
   <li><a href="../files/北京大学2025-2026学年校历.pdf">北京大学2025-2026学年校历</a></li>
+  <li><a href="https://resource.pku.edu.cn/index.php?r=political%2Fapp-index">北京大学教学媒体-好学</a></li>
 </ul>
 
 <h2>常用网站</h2>
