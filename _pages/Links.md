@@ -115,14 +115,14 @@ author_profile: true
         <div class="friend-intro">笔记共享(校外网,正常)</div>
       </a>
     </div>
-    <div class="friend-card" style="background-color: #4b6294;">
+    <div class="friend-card" style="background-color: #e3f2fd;">
       <a href="https://ycyue10001.github.io" target="_blank">
         <img src="../images/male.jpg" alt="ycyue10001's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">Bryant's Blog</div>
         <div class="friend-intro">闻数起舞</div>
       </a>
     </div>
-    <div class="friend-card" style="background-color: #75a99c;">
+    <div class="friend-card" style="background-color: #fff3e0;">
       <a href="https://ICUlizhi.github.io" target="_blank">
         <img src="../images/xj.jpg" alt="ICUlizhi" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
         <div class="friend-name">ICUlizhi's Blog</div>
