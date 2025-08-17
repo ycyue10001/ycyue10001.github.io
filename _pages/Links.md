@@ -88,7 +88,7 @@ author_profile: true
 <ul>
   <li><a href="https://www.google.cn/chrome/">Chrome浏览器下载</a></li>
   <li><a href="https://github.com/">Github</a></li>
-  <li><a href="https://z-lib.id/">Z-library</a></li>
+  <li><a href="https://zh.wikipedia.org/wiki/Z-Library">Z-library(划至最下方点官方网站)</a></li>
   <li><a href="https://cn.overleaf.com/project">Overleaf</a></li>
   <li><a href="https://detexify.kirelabs.org/classify.html#google_vignette">LATEX手写识别</a></li>
   <li><a href="https://typst.app/">Typst</a></li>
