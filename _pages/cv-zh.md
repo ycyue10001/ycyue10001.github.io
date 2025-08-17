@@ -46,7 +46,7 @@ redirect_from:
 </body>
 
 * 姓名: 岳羽辰
-* 电话及微信：13681218471 / 邮箱 [guangyin@stu.pku.edu.cn](guangyin@stu.pku.edu.cn)
+* 邮箱 [guangyin@stu.pku.edu.cn](mailto:guangyin@stu.pku.edu.cn)
 * 个人主页：[ycyue10001.github.io](https://ycyue10001.github.io/)
 
 学历
